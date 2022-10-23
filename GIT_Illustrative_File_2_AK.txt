@@ -1,0 +1,3 @@
+2nd commit
+First change in GIT_Illustrative_File_2_AK.
+Change was done after 1st commit.
