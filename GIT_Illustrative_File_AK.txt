@@ -4,3 +4,12 @@ Change was done after 1st commit.
 
 2nd commit
 Still 2nd commit but changed after saving the previous note upper. 
+
+5th commit
+3rd commit was just correction of 2nd commit beceause modified files weren't
+added in 2nd commits so it had to be commited.
+4th commit was done just in branch 'branchAK' 
+so the change didn't occure in the branch 'master'.
+At the same time as this commit waa written, 
+there was created another change of this file in 'branchAK'. 
+So there are two parallel changes of the same file.
