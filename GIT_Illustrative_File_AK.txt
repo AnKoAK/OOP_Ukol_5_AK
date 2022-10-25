@@ -4,3 +4,8 @@ Change was done after 1st commit.
 
 2nd commit
 Still 2nd commit but changed after saving the previous note upper. 
+
+4th commit (1st in 'branchAK')
+(there was no change in file in 3rd commit)
+First change in branch 'branchAK'. Git is switched to branchAK now.
+In branch 'main' was no change since 2nd commit.

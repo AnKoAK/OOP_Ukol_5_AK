@@ -1,0 +1,4 @@
+4th commit (1st in 'branchAK')
+This file (GIT_Illustrative_File_4_AK) was created.
+First change in this file. Also change in file GIT_Illustrative_File_AK 
+during the switch to 'branchAK'.
