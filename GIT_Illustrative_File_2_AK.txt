@@ -1,3 +1,7 @@
 2nd commit
 First change in GIT_Illustrative_File_2_AK.
 Change was done after 1st commit.
+
+7th commit
+In 6th commit there was no change in branch 'master'
+however tehre was change in this file in branch 'branch2AK'.
