@@ -1,3 +1,7 @@
 2nd commit
 First change in GIT_Illustrative_File_2_AK.
 Change was done after 1st commit.
+
+6th commit (1st in branch2AK)
+There were no changes in file in commits 3 to 5
+change done in new branch 'branch2AK'.
