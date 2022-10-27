@@ -5,3 +5,9 @@ Change was done after 1st commit.
 7th commit
 In 6th commit there was no change in branch 'master'
 however tehre was change in this file in branch 'branch2AK'.
+
+
+8th commit
+Change of this file in branch 'master'. 
+So 6th commit was a change of this file in branch 'branch2AK'
+and 7th and 8th commit was changed in branch 'master'.
