@@ -11,3 +11,20 @@ however tehre was change in this file in branch 'branch2AK'.
 Change of this file in branch 'master'. 
 So 6th commit was a change of this file in branch 'branch2AK'
 and 7th and 8th commit was changed in branch 'master'.
+
+9th commit
+merging 'branch2AK' into 'master' - adding 6th commit.
+There was a conflict, because this file was changed in both branches
+it was necessary to remove << == >> 
+for the text of 6th commit (see bellow) to be added 
+and the 7th and 8th commit  to save as well. 
+
+Added text
+6th commit (1st in branch2AK)
+There were no changes in file in commits 3 to 5.
+change done in new branch 'branch2AK'.
+
+The text could be also added manually to right place between 5th and 7th commit
+but for illustration, that it was merged, it will stay in the text of 9th commit.
+ 
+
