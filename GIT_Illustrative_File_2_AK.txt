@@ -5,3 +5,10 @@ Change was done after 1st commit.
 6th commit (1st in branch2AK)
 There were no changes in file in commits 3 to 5
 change done in new branch 'branch2AK'.
+
+10th commit (2nd in branch2AK, 1st in branch2AK after 1st merging)
+In 9th commit this branch was merged to branch 'master'.
+There were no changes of this file in commit 7th and 8th in this branch.
+However, there were changes of this file in the branch 'master' in 7th and 8th commit
+therefore the merging in 9th commit.
+Now we are switched to branch2AK again. 
